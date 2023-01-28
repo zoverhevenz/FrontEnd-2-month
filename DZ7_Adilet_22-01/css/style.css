@@ -1,0 +1,28 @@
+.trafficLight{
+    width: 240px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+ul {
+    list-style: none;
+    padding: 10px;
+    display: inline-block;
+    background: #3C4137;
+    border-radius: 10px;
+    box-shadow:  2px 2px 5px rgba(0,0,20,.7), 2px 2px 1px #3C4147;
+}
+li {
+    color: #fff;
+    line-height: 80px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: #000;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, .3), -2px -2px 4px rgba(255, 255, 255, .3);
+}
+
+.yellow {
+    color: #000
+}
